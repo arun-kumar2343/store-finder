@@ -1,0 +1,11 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+.page-container{ max-width: 1170px; width: 100%; padding: 0px 15px; margin: 0 auto;}
+.store-finder{ padding: 0px 0px 0px 0px; float: left; width: 100%; }
+.page-title{ text-align: center; width: 100%; font-size: 28px; margin: 20px 0px; }
+#store-list{float: left;   width: 30%;    padding-right: 15px;  box-sizing: border-box;   height: 350px;overflow-y: auto;    overflow-x: hidden;   margin-right: 1%;}
+ #store-map{float: right;    width: 69%;   margin: 0 0 20px;   height: 350px;}
+ .store-name {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 600;}
